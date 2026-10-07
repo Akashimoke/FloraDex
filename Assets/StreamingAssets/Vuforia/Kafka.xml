@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="stroberi" size="10.000000 10.000000" />
+    <ImageTarget name="avocado" size="10.000000 10.000000" />
+    <ImageTarget name="pear" size="10.000000 10.000000" />
+    <ImageTarget name="jeyuk" size="10.000000 10.000000" />
+    <ImageTarget name="nanaba" size="10.000000 10.000000" />
+    <ImageTarget name="kfka" size="10.000000 10.330478" />
+  </Tracking>
+</QCARConfig>

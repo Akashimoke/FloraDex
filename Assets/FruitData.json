@@ -1,0 +1,18 @@
+{
+  "fruits": [
+    {
+      "id": "pisang",
+      "nama": "Pisang",
+      "penjelasanSingkat": "Pisang adalah buah tropis berwarna kuning.",
+      "penjelasanLengkap": "Pisang adalah buah yang tumbuh di daerah tropis dan memiliki kulit berwarna kuning saat matang. Buah ini rasanya manis dan lembut. Pisang juga kaya vitamin dan energi, jadi bagus untuk membantu tubuh tetap sehat dan kuat.",
+      "gambar": "pisang"
+    },
+    {
+      "id": "apel",
+      "nama": "Apel",
+      "penjelasanSingkat": "Apel adalah buah yang kaya serat dan vitamin.",
+      "penjelasanLengkap": "Apel adalah buah yang tumbuh di daerah subtropis. Kulitnya bisa berwarna merah, hijau, atau kuning. Apel kaya serat dan vitamin C yang baik untuk kesehatan tubuh dan menjaga daya tahan tubuh.",
+      "gambar": "apel"
+    }
+  ]
+}
